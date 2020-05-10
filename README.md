@@ -1,3 +1,5 @@
+![Check](https://github.com/juicyarts/eslint-config/workflows/Check/badge.svg?branch=master)
+
 # @juicyarts/eslint-config
 
 Centralized linting rules for javascript & typescript using eslint. Rules for react and vue projects that use typescript are also provided here.

@@ -1,5 +1,5 @@
 module.exports = {
-  extends: ['@juicyarts/eslint-config/default'],
+  extends: ['@juicyarts/eslint-config'],
   overrides: [
     {
       files: ['*.js'],
